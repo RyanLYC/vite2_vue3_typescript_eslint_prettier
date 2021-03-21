@@ -1,5 +1,5 @@
 {
-  "name": "vite2_vue3_typescript_eslint_prettier_jest",
+  "name": "vite2_vue3_typescript_eslint_prettier",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
