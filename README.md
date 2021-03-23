@@ -1,5 +1,7 @@
 # Vue 3 + Typescript + Vite2 + ESLint + Prettier
 
+# vite2 vue3 ts 配置的基础项目
+
 This template should help get you started developing with Vue 3 and Typescript in Vite.
 
 ## Recommended IDE Setup
